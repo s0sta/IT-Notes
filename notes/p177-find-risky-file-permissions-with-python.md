@@ -17,7 +17,7 @@ Still in the Linux and security phase of my plan, here is a script that reflects
 
 ## Quick reference
 
-The full script is at the end of this note: **perms_audit.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `perms_audit.py` (standard library only, no `pip install`).
 
 **Run it**
 

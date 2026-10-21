@@ -17,7 +17,7 @@ Every slow query review starts the same way: someone reads a plan, spots a Seq S
 
 ## Quick reference
 
-The full script is at the end of this note: **index_advisor.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `index_advisor.py` (standard library only, no `pip install`).
 
 **Run it**
 

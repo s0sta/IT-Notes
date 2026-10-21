@@ -17,7 +17,7 @@ The cheapest security win on any website is its HTTP response headers. They cost
 
 ## Quick reference
 
-The full script is at the end of this note: **http_security_headers.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `http_security_headers.py` (standard library only, no `pip install`).
 
 **Run it**
 

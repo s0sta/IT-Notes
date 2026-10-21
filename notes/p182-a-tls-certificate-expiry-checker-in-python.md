@@ -17,7 +17,7 @@ Azure phase of the plan means running web apps and APIs, and the fastest way to 
 
 ## Quick reference
 
-The full script is at the end of this note: **ssl_expiry_check.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `ssl_expiry_check.py` (standard library only, no `pip install`).
 
 **Run it**
 

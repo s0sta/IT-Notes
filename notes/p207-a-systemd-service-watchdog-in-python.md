@@ -17,7 +17,7 @@ Sometimes a service dies between monitoring checks, and you want it back before 
 
 ## Quick reference
 
-The full script is at the end of this note: **service_watchdog.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `service_watchdog.py` (standard library only, no `pip install`).
 
 **Run it**
 

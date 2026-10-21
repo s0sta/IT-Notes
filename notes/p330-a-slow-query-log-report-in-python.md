@@ -17,7 +17,7 @@ The pager goes off at 02:00 because the checkout is slow, and the dashboard show
 
 ## Quick reference
 
-The full script is at the end of this note: **slow_query_report.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `slow_query_report.py` (standard library only, no `pip install`).
 
 **Run it**
 

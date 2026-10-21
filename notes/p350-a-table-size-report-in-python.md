@@ -17,7 +17,7 @@ The table is eight hundred megabytes and the indexes are one point two gigabytes
 
 ## Quick reference
 
-The full script is at the end of this note: **table_sizes.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `table_sizes.py` (standard library only, no `pip install`).
 
 **Run it**
 
