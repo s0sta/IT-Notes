@@ -17,7 +17,7 @@ A backup that fills the disk is a backup that eventually fails. This script make
 
 ## Quick reference
 
-The full script is at the end of this note: **backup_rotate.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `backup_rotate.py` (standard library only, no `pip install`).
 
 **Run it**
 

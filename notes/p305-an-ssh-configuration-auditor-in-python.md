@@ -17,7 +17,7 @@ You inherit a jump host and a ~/.ssh directory nobody has read in three years. T
 
 ## Quick reference
 
-The full script is at the end of this note: **ssh_audit.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `ssh_audit.py` (standard library only, no `pip install`).
 
 **Run it**
 

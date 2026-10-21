@@ -17,7 +17,7 @@ Security phase of the plan. Your SSH log is full of brute-force noise; the usefu
 
 ## Quick reference
 
-The full script is at the end of this note: **ssh_failed_logins.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `ssh_failed_logins.py` (standard library only, no `pip install`).
 
 **Run it**
 

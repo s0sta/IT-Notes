@@ -17,7 +17,7 @@ You move a site to a new domain, add the www, force HTTPS, and the old URL now t
 
 ## Quick reference
 
-The full script is at the end of this note: **redirect_chain.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `redirect_chain.py` (standard library only, no `pip install`).
 
 **Run it**
 

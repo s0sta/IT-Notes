@@ -17,7 +17,7 @@ Monitoring runs through the whole plan, from Linux to Kubernetes, so here is a t
 
 ## Quick reference
 
-The full script is at the end of this note: **url_uptime.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `url_uptime.py` (standard library only, no `pip install`).
 
 **Run it**
 

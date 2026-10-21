@@ -17,7 +17,7 @@ The backup job has been green for a year, and nobody has opened one of its files
 
 ## Quick reference
 
-The full script is at the end of this note: **backup_verify.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `backup_verify.py` (standard library only, no `pip install`).
 
 **Run it**
 

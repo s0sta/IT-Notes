@@ -17,7 +17,7 @@ Bloat does not announce itself: queries get a little slower, the disk fills, and
 
 ## Quick reference
 
-The full script is at the end of this note: **bloat_report.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `bloat_report.py` (standard library only, no `pip install`).
 
 **Run it**
 

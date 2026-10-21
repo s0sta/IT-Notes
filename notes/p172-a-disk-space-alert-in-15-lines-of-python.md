@@ -17,7 +17,7 @@ Phase 1 of my Cloud/DevSecOps plan is Linux and automation, so here is the first
 
 ## Quick reference
 
-The full script is at the end of this note: **disk_alert.py** (standard library only, no `pip install`).
+The full script is at the end of this note: `disk_alert.py` (standard library only, no `pip install`).
 
 **Run it**
 
